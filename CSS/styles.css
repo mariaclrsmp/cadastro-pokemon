@@ -1,0 +1,46 @@
+body {
+    background-color: #F5F5F5;
+    font-family: Nunito, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titulo {
+    background-color: #FFCC00;
+    padding: 8px;
+    text-align: center;
+}
+
+#divider {
+    background-color: #181818;
+    padding: 2px;
+}
+
+h1 {
+    color: #CE2211;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+h2 {
+    color: #0A285F;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+form {
+    padding: 20px;
+}
+
+#logo {
+    width: 170px;
+    height: 60px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+#card {
+    display: none;
+    justify-content: center;
+}
